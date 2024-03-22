@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript & React**
 
-- 👨‍💻 All of my projects are available at [(https://github.com/Akshay5651)](https://github.com/Akshay5651)](https://github.com/Akshay5651)
+- 👨‍💻 All of my projects are available at [(https://github.com/Akshay5651)](https://github.com/Akshay5651)]
 
 - 💬 Ask me about **Html Css and javascript**
 
