@@ -117,18 +117,8 @@ My Bio
 <br/>
 <!-- Top Langs -->
 <div align="center">
-  <img width="500" height="200" align="center" src="https://github-readme-stats-akshay5651.vercel.app/api/top-langs/?username=akshay5651&langs_count=8&layout=donut-vertical&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true" alt="top langs" />
+  <img width="500" height="200" align="center" src="https://github-readme-stats-shvm-09.vercel.app/api/top-langs/?username=akshay5651&langs_count=8&layout=donut-vertical&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true" alt="top langs" />
 </div>
-
-<br/>
-
-<!-- Top Contributed Repos
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F70DA0&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Top+Contributed+Repo" alt="Typing SVG" /></h2>
-
-<div align="center">
-  <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=akshay5651&limit=7&theme=synthwave&combine_all_yearly_contributions=true&hide_border=true" alt="GitHub Profile Contributions" width="600" height="300"/>
-</div>-->
 
 <br/>
 
