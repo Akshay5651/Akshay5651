@@ -78,7 +78,7 @@ My Bio
 
 > **Learning Journey:** Diving into Aspnet Core MVC, Advanced JS, React, GitHub, and more. I believe in the power of continuous improvement and expanding my skill set.
 
-> **Ask Me About:** Bootstrap, React, JavaScript, HTML, GitHub, ASPNET Core, and beyond. You can start a conversation [here](https://github.com/Akshay5651/Akshay5651/issues).
+> **Ask Me About** Bootstrap, React, JavaScript, HTML, GitHub, ASPNET Core, and beyond. You can start a conversation [here](https://github.com/Akshay5651/Akshay5651/issues).
 
 > **Life Principles:** I adhere to three guiding principles: Truth, Love, and Compassion. These values drive me both personally and professionally.
 
