@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Akshay Verma</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript & React**
+- 🌱 I’m currently contributing as a Backend Developer with **C#, .NET Core,  MVC, Entity Framework Core, WebAPI, AWS, React, Git, Github, and SQL** Skills.
 
 - 👨‍💻 All of my projects are available at [(https://github.com/Akshay5651)](https://github.com/Akshay5651)]
 
-- 💬 Ask me about **Html Css and javascript**
+- 💬 Ask me about **Frontend(React.js) and Backend(.NET/C#/SQL) or Career Advice**
+  
+- 💬 For Referral/Career Guidance connect at: **https://www.linkedin.com/in/akshay-verma-0270b7172**
 
 - 📫 How to reach me **akki221099@gmail.com**
 
-- 📄 Know about my experiences [I have 3 Years of Industrial Experience 😁](2 Years Experience @Infosys😜)
+- 📄 Know about my experiences [I have 4.5 Years of Industrial Experience 😁](2.5 Years Currently in @Infosys🎓)
 
 - ⚡ Fun fact **I think I am funny 🙃**
 
