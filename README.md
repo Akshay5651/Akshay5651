@@ -36,8 +36,6 @@
 ## 🌐 Socials:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-verma-0270b7172/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](akki221099@gmail.com)
-[![portfolio](https://img.shields.io/badge/Portfolio?style=for-the-badge-green)](https://akshay5651-portfolio.netlify.app)
-
 <br/>
 
 <!-- Languages | Tools | Frameworks | Libs -->
